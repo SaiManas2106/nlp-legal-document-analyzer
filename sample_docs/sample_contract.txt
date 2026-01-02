@@ -1,0 +1,13 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is made effective as of January 1, 2025 by and between Alpha Corp ("Provider") and Beta LLC ("Client").
+
+1. Services. Provider shall provide the services described in Exhibit A. Provider must perform the services in a professional manner.
+
+2. Payment. Client shall pay Provider within thirty (30) days of receiving an invoice.
+
+3. Termination. Either party may terminate this Agreement upon thirty (30) days' written notice if the other party materially breaches this Agreement.
+
+4. Confidentiality. Each party shall keep confidential all proprietary information.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
