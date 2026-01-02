@@ -46,4 +46,4 @@ curl -X POST http://localhost:5000/analyze -F "file=@sample_docs/sample_contract
 
 ## Notes
 - This project uses spaCy for NER + lightweight rule-based clause extraction; Transformers (Hugging Face) are used for document classification.
-- For production, use a proper database server (Postgres), configure connection pooling, and place models behind a model server if needed.
+
